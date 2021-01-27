@@ -1,28 +1,43 @@
-# App05
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-"# homework-routing" 
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>App05</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+   <!-- Favicons -->
+   <link href="assets/img/favicon.png" rel="icon">
+   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+ 
+   <!-- Google Fonts -->
+   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+ 
+   <!-- Vendor CSS Files -->
+   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+   <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+   <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+   <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+ 
+   <!-- Template Main CSS File -->
+   <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+  <app-root></app-root>
+</body>
+<!-- Vendor JS Files -->
+<script src="assets/vendor/jquery/jquery.min.js"></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+<script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+<script src="assets/vendor/counterup/counterup.min.js"></script>
+<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="assets/vendor/venobox/venobox.min.js"></script>
+<script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+<script  src="../../Jquery/prettify.js"></script>
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
+</html>
