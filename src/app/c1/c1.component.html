@@ -1,0 +1,11 @@
+<div *ngFor='let art of Data' class="col-lg-4 col-md-6 d-flex align-items-stretch">
+    <div>
+    <app-c2
+    
+    [title]="
+    art.name
+    "
+    [description]="art.origin"
+    [imageUrl]="art.image"
+    ></app-c2></div>
+</div>
